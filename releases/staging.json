@@ -1,10 +1,10 @@
 {
   "channel": "staging",
-  "build": 3,
+  "build": 4,
   "version": "0.2.0",
-  "revision": "7a3cc9f6ba8a3aef26aa1e555a8396f68ea8ae40",
+  "revision": "a5e8b0bdc428f86058ce062a04d4d598775d9dd9",
   "published": true,
-  "artifactURL": "https://github.com/xpromptvs/xpromptvs/releases/download/staging-3/Xpromptvs.dmg",
-  "size": 20322779,
-  "sha256": "bec741e74ff733747f6832d5a09e585337cd29d0fafc4a3ce418829514b920d7"
+  "artifactURL": "https://github.com/xpromptvs/xpromptvs/releases/download/staging-4/Xpromptvs.dmg",
+  "size": 20325000,
+  "sha256": "db59ab6ec376bd765634d741c463b77de4e64cf8462bf3bb14b291c08c29f04a"
 }
