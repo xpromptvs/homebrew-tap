@@ -1,0 +1,10 @@
+{
+  "channel": "staging",
+  "build": 2,
+  "version": "0.2.0",
+  "revision": "51d3c541202cb04d3fdd8f07ec076d1c8e996fb6",
+  "published": true,
+  "artifactURL": "https://github.com/xpromptvs/xpromptvs/releases/download/staging-2/Xpromptvs.dmg",
+  "size": 20323629,
+  "sha256": "bafa840ca4be90c92d101d83fe6bf9352312b8c3641a051dea792a881f1f37a3"
+}
