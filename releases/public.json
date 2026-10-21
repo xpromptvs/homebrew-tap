@@ -1,10 +1,10 @@
 {
   "channel": "public",
-  "build": 5,
+  "build": 6,
   "version": "0.2.0",
-  "revision": "d07b45bf65ac531ec07c228b9666982709bdec5f",
+  "revision": "621a56cfe820dad39bb60dafcf08fdf16db34296",
   "published": true,
-  "artifactURL": "https://github.com/xpromptvs/xpromptvs/releases/download/public-5/Xpromptvs.dmg",
-  "size": 22225261,
-  "sha256": "c1b2124641714f0647e44c590fdd70474e310f65ed0d7ee4e60d469970ac148c"
+  "artifactURL": "https://github.com/xpromptvs/xpromptvs/releases/download/public-6/Xpromptvs.dmg",
+  "size": 22229502,
+  "sha256": "9308a974b88cd7e300c0f9d1005befc9764c92348d92577226261b072f5679d4"
 }
