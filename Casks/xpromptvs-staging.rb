@@ -1,8 +1,8 @@
 cask "xpromptvs-staging" do
-  version "0.2.0,18"
-  sha256 "eae0619ed0215bd184a18790d931c06ed34baa4ed8c4ffd8b56ccc410897cb70"
+  version "0.2.0,19"
+  sha256 "7bebe500cab0a2af412ebee00006c0233f6b0eb452f064595bc4ec6aadc6fe5f"
 
-  url "https://github.com/xpromptvs/xpromptvs/releases/download/staging-18/Xpromptvs.dmg"
+  url "https://github.com/xpromptvs/xpromptvs/releases/download/staging-19/Xpromptvs.dmg"
   name "Xpromptvs Staging"
   desc "Remote access to your computer's windows and terminal from a browser"
   homepage "https://xpromptvs.ai/"
