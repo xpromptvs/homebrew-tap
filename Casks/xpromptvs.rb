@@ -1,8 +1,8 @@
 cask "xpromptvs" do
-  version "0.2.0,12"
-  sha256 "e5f78d5dd5bdb367e120c1a8a023ffc22a5fd1995d34c8ab25f3e514fc9672a3"
+  version "0.2.0,13"
+  sha256 "b4410c85d3b2a430f395ad3972e6210cb2f507651e38dbe497436be88fbdd3f3"
 
-  url "https://github.com/xpromptvs/xpromptvs/releases/download/public-12/Xpromptvs.dmg"
+  url "https://github.com/xpromptvs/xpromptvs/releases/download/public-13/Xpromptvs.dmg"
   name "Xpromptvs"
   desc "Remote access to your computer's windows and terminal from a browser"
   homepage "https://xpromptvs.ai/"
